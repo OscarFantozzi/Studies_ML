@@ -1,0 +1,4 @@
+# colar no terminal
+
+(base) C:\Program Files\Graphviz\bin>dot.exe -Tpng C:\Users\oscar\Documents\repos\machine_learning\Decision_Tree\tree.do
+t -o C:\Users\oscar\Documents\repos\machine_learning\Decision_Tree\tree.png
